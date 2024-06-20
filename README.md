@@ -9,3 +9,12 @@ Tecnologias Utilizadas
 * Flutter: Framework de UI para construção de interfaces nativas para iOS, Android, Web e Desktop.
 * Python: Linguagem de programação para a lógica do back-end.
 * Flet: Framework para construir interfaces do usuário com Python que se integram com Flutter.
+
+Licença
+* Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+ Contato
+* Para mais informações, entre em contato com Wagner Lustosa Júnior:
+
+* GitHub: @wagnerlustosajr
+* Email: wagnerlustosa@icloud.com
